@@ -2,4 +2,16 @@ environment: TensorFlow 2.5.0-gpu or TensorFlow 2.5.0-cpu. Download tf_geometric
 
 Train and test in demo.py
 
-Corresponding paper "Crowdsourcing Truth Inference via Reliability-driven Multi-view graph embedding" is under reviewed at TKDD
+@article{10.1145/3565576,
+author = {Wu, Gongqing and Zhuo, Xingrui and Bao, Xianyu and Hu, Xuegang and Hong, Richang and Wu, Xindong},
+title = {Crowdsourcing Truth Inference via Reliability-Driven Multi-View Graph Embedding},
+year = {2022},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+issn = {1556-4681},
+url = {https://doi.org/10.1145/3565576},
+doi = {10.1145/3565576},
+note = {Just Accepted},
+journal = {ACM Trans. Knowl. Discov. Data},
+month = {oct}
+}
