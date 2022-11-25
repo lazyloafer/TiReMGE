@@ -2,6 +2,7 @@ environment: TensorFlow 2.5.0-gpu or TensorFlow 2.5.0-cpu. Download tf_geometric
 
 Train and test in demo.py
 
+citation:
 @article{10.1145/3565576,
 author = {Wu, Gongqing and Zhuo, Xingrui and Bao, Xianyu and Hu, Xuegang and Hong, Richang and Wu, Xindong},
 title = {Crowdsourcing Truth Inference via Reliability-Driven Multi-View Graph Embedding},
